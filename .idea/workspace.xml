@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d426e20d-fd95-4957-947e-5f0cbdd84c12" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/migrations/2015_09_30_025236_ProductTag.php" afterPath="$PROJECT_DIR$/database/migrations/2015_09_30_025236_ProductTag.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
-    </list>
+    <list default="true" id="d426e20d-fd95-4957-947e-5f0cbdd84c12" name="Default" comment="" />
     <ignored path="laravel_v5_1_Commerce_v3.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -350,7 +346,7 @@
       <workItem from="1465736016146" duration="120000" />
       <workItem from="1465783243440" duration="3835000" />
       <workItem from="1465868927889" duration="1523000" />
-      <workItem from="1468261757570" duration="261000" />
+      <workItem from="1468261757570" duration="850000" />
     </task>
     <servers />
   </component>
@@ -369,7 +365,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71285000" />
+    <option name="totallyTimeSpent" value="71874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
